@@ -1,0 +1,3 @@
+run:
+{99999=Moscow, 99998=Shanghai, 90001=Los Angeles, 20001=New York, 60001=Evanston}
+BUILD SUCCESSFUL (total time: 0 seconds)

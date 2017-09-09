@@ -1,0 +1,7 @@
+run:
+[second, third, first]
+Is HashSet empty? false
+[second, first]
+Size of the HashSet: 2
+Does HashSet contains first element? true
+BUILD SUCCESSFUL (total time: 0 seconds)

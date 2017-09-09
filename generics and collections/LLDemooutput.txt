@@ -1,0 +1,9 @@
+run:
+[orange, pink, yellow, pink, green]
+[orange, pink, yellow, pink, magenta, green]
+[pink, yellow, pink, magenta, green]
+[pink, yellow, pink, magenta]
+[yellow, pink, magenta]
+[yellow, magenta]
+[yellow, magenta, roses, Lilies]
+BUILD SUCCESSFUL (total time: 0 seconds)

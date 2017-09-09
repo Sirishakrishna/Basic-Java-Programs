@@ -1,0 +1,7 @@
+run:
+{color1=blue, color2=pink, color3=green}
+Value of second: pink
+Is TreeMap empty? false
+{color1=blue, color2=pink}
+Size of the TreeMap: 2
+BUILD SUCCESSFUL (total time: 0 seconds)

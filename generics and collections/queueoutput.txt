@@ -1,0 +1,13 @@
+run:
+
+Items in the queue...[India, Australia, Kenya, England, Scotland]
+
+remove element: India
+
+retrieve element: Australia
+
+remove and retrieve element, null if empty: Australia
+
+retrieve element, null if empty Kenya
+
+BUILD SUCCESSFUL (total time: 0 seconds)

@@ -1,0 +1,7 @@
+run:
+Elements: [blue, pink, yellow]
+Is set empty: false
+Is set empty: true
+Size of the set: 3
+Elements: [one, three]
+BUILD SUCCESSFUL (total time: 0 seconds)

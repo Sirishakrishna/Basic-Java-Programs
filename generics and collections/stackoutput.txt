@@ -1,0 +1,9 @@
+run:
+Pakistan
+Bangladesh
+Australia
+England
+area: 49
+area: 36
+area: 25
+BUILD SUCCESSFUL (total time: 0 seconds)
